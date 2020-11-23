@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+browserstack.json
+specs
+tests.zip
+package-lock.json
+.nyc_output/
+.env.*
